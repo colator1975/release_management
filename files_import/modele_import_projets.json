@@ -1,0 +1,18 @@
+[
+  {
+    "cprCode": "MON-PROJET-001",
+    "entity": "PREDICA",
+    "formData": {
+      "Entité (PREDICA/PACIFICA/CACI)": "PREDICA",
+      "[CPR] Code Projet release": "MON-PROJET-001",
+      "Quel est le nom du projet ? ": "Nom du projet",
+      "Description et objectif du projet": "Description ici",
+      "Qui est le RP IT ?": "",
+      "Qui est le PO ? ": "",
+      "Quelle est la date de MEP prévue ? ": "",
+      "Le projet doit-il s'inscrire au dispositif Version ? ": "Oui",
+      "Quel est le bloc applicatif principal ? ": "",
+      "Y a t'il des développements côté distributeurs ?  ": "Non"
+    }
+  }
+]

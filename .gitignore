@@ -1,0 +1,21 @@
+# Maven
+target/
+*.log
+.mvn/
+mvnw
+mvnw.cmd
+.dist/
+
+# Node
+node_modules/
+.next/
+out/
+build/
+.env*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+backend/data/
